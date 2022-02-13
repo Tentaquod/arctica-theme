@@ -7,6 +7,17 @@
     "engines": {
         "vscode": "^1.64.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Tentaquod/arctica-theme"
+    },
+    "keywords": [
+        "dark theme",
+        "arctica theme",
+        "blue theme",
+        "arctica",
+        "arctica theme"
+    ],
     "categories": [
         "Themes"
     ],
