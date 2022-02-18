@@ -3,7 +3,7 @@
     "displayName": "Arctica",
     "description": "Official Arctica Theme",
     "icon": "images/logo.png",
-    "version": "0.2.2",
+    "version": "0.2.1",
     "publisher": "tentalabs",
     "engines": {
         "vscode": "^1.64.0"
