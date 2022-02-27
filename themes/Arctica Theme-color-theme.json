@@ -30,7 +30,10 @@
 
 		"badge.background":"#2B323C",
 
-		"textLink.foreground":"#bda7c6"
+		"textLink.foreground":"#bda7c6",
+
+		"statusBar.background": "#bda7c6"
+		
 	},
 	"tokenColors": [
 		{
@@ -111,7 +114,17 @@
 				"keyword.control"
 			],
 			"settings": {
-				"foreground": "#e3b38d"
+				"foreground": "#bda7c6",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "keyword.css",
+			"scope": [
+				"keyword.control.at-rule.media.css"
+			],
+			"settings": {
+				"fontStyle": ""
 			}
 		},
 		{
@@ -122,8 +135,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#9198AA",
-				"fontStyle": "bold"
+				"foreground": "#9198AA"
 			}
 		},
 		{

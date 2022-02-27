@@ -1,7 +1,7 @@
 {
     "name": "arctica",
     "displayName": "Arctica",
-    "description": "Official Arctica Theme",
+    "description": "This is the official Arctica VSCode Color Theme from Tentalabs. Enjoy nordish blue and purple colors with a nightblue background and dim key colors",
     "icon": "images/logo.png",
     "version": "0.3.3",
     "publisher": "tentalabs",
